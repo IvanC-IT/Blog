@@ -1,4 +1,4 @@
-#Building a Blog app  with Spring Boot, Spring Security, JWT, RestAPI
+Building a Blog app  with Spring Boot, Spring Security, JWT, RestAPI
 
 ## Prerequisites
  Spring Boot;
